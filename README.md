@@ -10,10 +10,14 @@
   <li>I am now working on a school project.</li>
  </ul>
  <h2>Skills & Technologies</h2>
+ <h3>Frontend</h3>
  <ul>
-  <li><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></li>
-  <li><img alt="Nodejs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></li>
-  <li><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></li>
+  <li>⚛️ React.js</li>
+  <li>🔀 React Router</li>
+  <li>💅 CSS3, 🎯 HTML5</li>
+  <li>🌀 Tailwind CSS</li>
+  <li>🎨 DaisyUI</li>
+  <li>📜 JavaScript (ES6+)</li>
  </ul>
 
 <!--
