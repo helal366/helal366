@@ -35,6 +35,8 @@
   <li>💻 VS Code</li>
   <li>📁 Google Drive</li>
  </ul>
+ <h3>Social Links</h3>
+ <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
