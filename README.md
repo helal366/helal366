@@ -1,8 +1,9 @@
 <img src="https://i.postimg.cc/zXPpcz9G/github-banner.png" alt="Helal banner image">
- ## About Me
-- 👋 Hi, I'm a MERN Stack Developer with hands-on experience in building real-world web applications using React, Node.js, Express, MongoDB, and Firebase.
-- 💡 I focus on writing clean, efficient, and scalable code, following best practices in both frontend and backend development.
-- 🚀 I love working with modern web technologies and exploring tools like Vercel, Tailwind CSS, and RESTful APIs.
+ <h1>About Me</h1> 
+ <p>👋 Hi, I'm a MERN Stack Developer with hands-on experience in building real-world web applications using React, Node.js, Express, MongoDB, and Firebase.</p>
+ <p>💡 I focus on writing clean, efficient, and scalable code, following best practices in both frontend and backend development.</p>
+ <p>🚀 I love working with modern web technologies and exploring tools like Vercel, Tailwind CSS, and RESTful APIs.</p>
+
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
