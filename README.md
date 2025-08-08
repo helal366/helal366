@@ -12,12 +12,17 @@
  <h2>Skills & Technologies</h2>
  <h3>Frontend</h3>
  <ul>
-  <li>⚛️ React.js</li>
-  <li>🔀 React Router</li>
-  <li>💅 CSS3, 🎯 HTML5</li>
+  <li>🎯 HTML5, 💅 CSS3</li>
   <li>🌀 Tailwind CSS</li>
   <li>🎨 DaisyUI</li>
   <li>📜 JavaScript (ES6+)</li>
+  <li>⚛️ React.js</li>
+  <li>🔀 React Router</li>
+ </ul>
+ <h3>Backend</h3>
+ <ul>
+  <li>🌍 Express.js</li>
+  <li>🌐 RESTful APIs</li>
  </ul>
 
 <!--
