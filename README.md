@@ -11,7 +11,7 @@
  </ul>
  <h2>Skills & Technologies</h2>
  <ul>
-  <li><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></li>
+  <li><img className="mt-5" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></li>
  </ul>
 
 <!--
