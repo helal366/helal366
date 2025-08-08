@@ -1,8 +1,14 @@
 <img src="https://i.postimg.cc/zXPpcz9G/github-banner.png" alt="Helal banner image">
- <h1>About Me</h1> 
+ <h2>About Me</h2> 
  <p>👋 Hi, I'm a MERN Stack Developer with hands-on experience in building real-world web applications using React, Node.js, Express, MongoDB, and Firebase.</p>
  <p>💡 I focus on writing clean, efficient, and scalable code, following best practices in both frontend and backend development.</p>
  <p>🚀 I love working with modern web technologies and exploring tools like Vercel, Tailwind CSS, and RESTful APIs.</p>
+
+ <h2>Current Activities </h2>
+ <ul>
+  <li>I am now exploring Next.js</li>
+  <li>I am now working on a school project.</li>
+ </ul>
 
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
