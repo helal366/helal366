@@ -9,6 +9,10 @@
   <li>I am now exploring Next.js</li>
   <li>I am now working on a school project.</li>
  </ul>
+ <h2>Skills & Technologies</h2>
+ <ul>
+  <li><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></li>
+ </ul>
 
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
