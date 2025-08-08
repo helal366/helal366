@@ -24,6 +24,18 @@
   <li>🌍 Express.js</li>
   <li>🌐 RESTful APIs</li>
  </ul>
+ <h3>Database and Authentication</h3>
+ <ul>
+  <li>🍃 MongoDB</li>
+  <li>🔐 Firebase </li>
+ </ul>
+ <h3>Tools & Platforms</h3>
+ <ul>
+  <li>🔁 Git & GitHub</li>
+  <li>💻 VS Code</li>
+  <li>📁 Google Drive</li>
+  <li></li>
+ </ul>
 
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
