@@ -12,6 +12,7 @@
  <h2>Skills & Technologies</h2>
  <ul>
   <li><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></li>
+  <li><img alt="Nodejs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></li>
   <li><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></li>
  </ul>
 
