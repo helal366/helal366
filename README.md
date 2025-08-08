@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/HkvG31tw/github-banner.jpg" alt="Mokkapps GitHub README header image">
+<img src="https://i.postimg.cc/zXPpcz9G/github-banner.png" alt="Helal banner image">
 
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
