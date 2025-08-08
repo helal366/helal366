@@ -34,7 +34,6 @@
   <li>🔁 Git & GitHub</li>
   <li>💻 VS Code</li>
   <li>📁 Google Drive</li>
-  <li></li>
  </ul>
 
 <!--
