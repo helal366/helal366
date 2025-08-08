@@ -3,6 +3,7 @@
  <p>👋 Hi, I'm a MERN Stack Developer with hands-on experience in building real-world web applications using React, Node.js, Express, MongoDB, and Firebase.</p>
  <p>💡 I focus on writing clean, efficient, and scalable code, following best practices in both frontend and backend development.</p>
  <p>🚀 I love working with modern web technologies and exploring tools like Vercel, Tailwind CSS, and RESTful APIs.</p>
+ <p>📞 +8801786112996</p>
 
  <h2>Current Activities </h2>
  <ul>
