@@ -8,7 +8,7 @@
  <h2>Current Activities </h2>
  <ul>
   <li>I am now exploring Next.js</li>
-  <li>I am now working on a school project.</li>
+  <li>I am now working on an e-Commerce website.</li>
  </ul>
  <h2>Skills & Technologies</h2>
  <h3>Frontend</h3>
