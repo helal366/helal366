@@ -1,8 +1,8 @@
 <img src="https://i.postimg.cc/Z5t2Kjns/Md-Al-Helal-Sarker.png" alt="Helal banner image">
  <h2>About Me</h2> 
- <p>👋 Hi, I'm a Full Stack Developer with hands-on experience in building real-world web applications using React, Next.js, Typescript, Node.js, Express.js, MongoDB, PostgreSQL, Firebase, Vercel, Netlify,Redux, Prisam, Docker, AWS.</p>
- <p>💡 I focus on writing clean, efficient, and scalable code, following best practices in both frontend and backend development.</p>
- <p>🚀 I love working with modern web technologies and exploring tools like Vercel, Tailwind CSS, and RESTful APIs.</p>
+ <p>💡 I am a passionate Full‑Stack Web Developer focused on building production‑grade, high‑performance optimized web applications. My expertise lies in clean architecture, scalable solutions, and user‑friendly interfaces.</p>
+<p>💡 My core stack includes React, TypeScript, Next.js, Node.js, modular Express backends, MongoDB and PostgreSQL, Redux, Prisma, Docker, AWS enabling me to deliver enterprise‑level full‑stack solutions with efficiency and reliability  .</p>
+ <p>💡 Alongside web development, I am actively learning Data Structures & Algorithms (DSA) with C++, strengthening my critical and logical thinking, analytical problem‑solving skills.</p>
  <p>📞 +8801786112996</p>
 
  <h2>Current Activities </h2>
