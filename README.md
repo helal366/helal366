@@ -7,8 +7,13 @@
 
  <h2>Current Activities </h2>
  <ul>
-  <li>I am now exploring Next.js</li>
-  <li>I am now working on a School Management System website.</li>
+  <li>Enhancing Next.js</li>
+  <li>Working on a School Management System website.</li>
+  <li>Enhancing backend architecture with PostgreSQL (Neon Cloud) for scalable and efficient data management.</li>
+  <li>Deepening expertise in Redux Toolkit for advanced state management patterns</li>
+  <li>Expanding knowledge of MongoDB aggregation pipelines to handle complex analytics and data processing</li>
+  <li>Strengthening proficiency in TypeScript’s advanced type system for building maintainable, type‑safe applications</li>
+  <li>Practicing Data Structures & Algorithms (DSA) with C++ to sharpen critical and logical thinking, and improve analytical   problem‑solving skills</li>
  </ul>
  <h2>Skills & Technologies</h2>
  <h3>Frontend</h3>
