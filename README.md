@@ -57,7 +57,7 @@
  <h1>GITHUB STATISTICS AND ANALYSIS:</h1>
 
  
- <h3>GITHUB CONTRIBUTION</h3>
+ <h3>📈 GITHUB CONTRIBUTION</h3>
  <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=helal366&theme=tokyo-night" alt="GitHub Stats"/>
  </p>
