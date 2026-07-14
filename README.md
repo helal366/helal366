@@ -55,6 +55,7 @@
  </ul>
  <h3>Social Links</h3>
  <a href="https://www.linkedin.com/in/helal-sarker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+ <a href="https://x.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height=25>
 
  <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=helal366&amp;show_icons=true" alt="GitHub Stats"></p>
