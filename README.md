@@ -1,4 +1,5 @@
-<img src="https://i.postimg.cc/Z5t2Kjns/Md-Al-Helal-Sarker.png" alt="Helal banner image">
+<!-- <img src="https://i.postimg.cc/Z5t2Kjns/Md-Al-Helal-Sarker.png" alt="Helal banner image"> -->
+<img src="https://res.cloudinary.com/dhwsz1x8r/image/upload/v1784056888/Md_Al_Helal_Sarker_dekwqq.png" alt="Helal banner image">
 
 
 <h2 align="center">Hi 👋, I'm Md Al Helal Sarker</h2>
