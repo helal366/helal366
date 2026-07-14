@@ -1,11 +1,12 @@
 <img src="https://i.postimg.cc/Z5t2Kjns/Md-Al-Helal-Sarker.png" alt="Helal banner image">
- <h2>About Me</h2> 
+ <h2>ABOUT ME:</h2> 
+ <hr style="border: 1px solid #e5e7eb; width: 100%;" />
  <p>💡 I am a passionate Full‑Stack Web Developer focused on building production‑grade, high‑performance optimized web applications. My expertise lies in clean architecture, scalable solutions, and user‑friendly interfaces.</p>
 <p>💡 My core stack includes React, TypeScript, Next.js, Node.js, modular Express backends, MongoDB and PostgreSQL, Redux, Prisma, Docker, AWS enabling me to deliver enterprise‑level full‑stack solutions with efficiency and reliability  .</p>
  <p>💡 Alongside web development, I am actively learning Data Structures & Algorithms (DSA) with C++, strengthening my critical and logical thinking, analytical problem‑solving skills.</p>
  <p>📞 +8801786112996</p>
 
- <h2>Current Activities </h2>
+ <h2>CURRENT ACTIVITIES: </h2>
  <ul>
   <li>Enhancing Next.js</li>
   <li>Working on a School Management System website.</li>
@@ -14,9 +15,16 @@
   <li>Expanding knowledge of MongoDB aggregation pipelines to handle complex analytics and data processing</li>
   <li>Strengthening proficiency in TypeScript’s advanced type system for building maintainable, type‑safe applications</li>
   <li>Practicing Data Structures & Algorithms (DSA) with C++ to sharpen critical and logical thinking, and improve analytical   problem‑solving skills</li>
+
+<h3>FOLLOW ME ON SOCIAL MEDIA: </h3>
+ <a href="https://www.linkedin.com/in/helal-sarker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+ <a href="https://x.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height=25>
+ <a href="https://discordapp.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" height=25>
+
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,docker,aws" />
  </ul>
- <h2>Skills & Technologies</h2>
- <h3>Frontend</h3>
+ <h2>SKILLS & TECHNOLOGIES: </h2>
+ <h3>FRONTEND</h3>
  <ul>
   <li>🔀 HTML5</li>
   <li>🔀 CSS3</li>
@@ -28,20 +36,20 @@
   <li>🔀 Typescript</li>
   <li>🔀 Redux</li>
  </ul>
- <h3>Backend</h3>
+ <h3>BACKEND</h3>
  <ul>
   <li>🌍 Node.js</li>
   <li>🌍 Express.js</li>
   <li>🌍 RESTful APIs</li>
   <li>🌍 Prisma</li>
  </ul>
- <h3>Database and Authentication</h3>
+ <h3>DATABASE AND AUTHENTICATION</h3>
  <ul>
   <li>🍃 MongoDB</li>
   <li>🍃 PostgreSQL</li>
   <li>🍃 Firebase </li>
  </ul>
- <h3>Tools & DevOps</h3>
+ <h3>TOOLS & DEVOPS</h3>
  <ul>
   <li>💻 Git & GitHub</li>
   <li>💻 VS Code</li>
@@ -53,12 +61,12 @@
   <li>💻 Docker</li>
   <li>💻 AWS</li>
  </ul>
- <h3>Social Links</h3>
- <a href="https://www.linkedin.com/in/helal-sarker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
- <a href="https://x.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height=25>
- <a href="https://discordapp.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" height=25>
 
- <h2>GitHub Stats</h2>
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,docker,aws" />
+ 
+ 
+
+ <h2>GITHUB STATS</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=helal366&amp;show_icons=true" alt="GitHub Stats"></p>
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
