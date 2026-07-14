@@ -55,10 +55,10 @@
  
 
  <h1>GITHUB STATISTICS AND ANALYSIS:</h1>
- <h3>GitHub Readme Activity Graph (Best looking)</h3>
+ <!-- <h3>GitHub Readme Activity Graph (Best looking)</h3>
  <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=helal366&theme=github" />
- </p>
+ </p> -->
  
  <h3>GITHUB CONTRIBUTION</h3>
  <p>
@@ -70,12 +70,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=helal366&show_icons=true&theme=github_dark" />
  </p>
 
+ 
+<!--
  <h3>Classic Contribution Snake (Animated 🐍)</h3>
 <p><img src="https://raw.githubusercontent.com/helal366/helal366/output/github-contribution-grid-snake.svg" /></p>
 
 <h3>🔥 Streak Stats</h3>
 <p><img src="https://streak-stats.demolab.com?user=helal366&theme=github-dark" /></p>
-
+-->
 <h3>Pro Layout Example</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helal366&show_icons=true&theme=github_dark" />
