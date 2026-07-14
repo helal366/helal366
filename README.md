@@ -23,7 +23,7 @@
 <h1>FOLLOW ME ON SOCIAL MEDIA: </h1>
 
  <a href="https://www.linkedin.com/in/helal-sarker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
- <a href="https://x.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height=25>
+ <a href="https://x.com/Helal568768/"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height=25>
  <a href="https://discordapp.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" height=25>
   <hr style="border: 1px solid #e5e7eb; width: 100%;" />
 
