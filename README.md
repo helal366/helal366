@@ -8,7 +8,6 @@
 
  
  <h1>CURRENT ACTIVITIES: </h1>
-  <hr style="border: 1px solid #e5e7eb; width: 100%;" />
  <ul>
   <li>Enhancing Next.js</li>
   <li>Working on a School Management System website.</li>
@@ -31,6 +30,7 @@
   
 
  <h1 style="margin-top: 16px;">SKILLS & TECHNOLOGIES: </h1>
+ 
  <h3 >FRONTEND</h3>
  <div >
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,ts,redis&perline=10" />
