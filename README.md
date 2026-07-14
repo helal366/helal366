@@ -21,10 +21,13 @@
  <a href="https://x.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height=25>
  <a href="https://discordapp.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" height=25>
 
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,docker,aws" />
+ 
  </ul>
  <h2>SKILLS & TECHNOLOGIES: </h2>
  <h3>FRONTEND</h3>
+ <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,ts&perline=8" />
+ </div>
  <ul>
   <li>🔀 HTML5</li>
   <li>🔀 CSS3</li>
