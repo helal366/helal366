@@ -5,7 +5,7 @@
 <p>💡 My core stack includes React, TypeScript, Next.js, Node.js, modular Express backends, MongoDB and PostgreSQL, Redux, Prisma, Docker, AWS enabling me to deliver enterprise‑level full‑stack solutions with efficiency and reliability  .</p>
  <p>💡 Alongside web development, I am actively learning Data Structures & Algorithms (DSA) with C++, strengthening my critical and logical thinking, analytical problem‑solving skills.</p>
  <p>📞 +8801786112996</p>
-
+ <hr style="border: 1px solid #e5e7eb; width: 100%;" />
  <h1>CURRENT ACTIVITIES: </h1>
  <ul>
   <li>Enhancing Next.js</li>
