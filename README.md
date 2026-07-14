@@ -1,8 +1,14 @@
 <img src="https://i.postimg.cc/Z5t2Kjns/Md-Al-Helal-Sarker.png" alt="Helal banner image">
 
+<!-- <h3 align="center">Hi 👋, I'm Md Al Helal Sarker</h3>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=JavaScript+enthusiast;PostgreSQL+data+architect;Next.js+builder;Prisma+ORM+data+modeler) -->
+
 <h3 align="center">Hi 👋, I'm Md Al Helal Sarker</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=JavaScript+enthusiast;PostgreSQL+data+architect;Next.js+builder;Prisma+ORM+data+modeler)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=JavaScript+enthusiast;PostgreSQL+data+architect;Next.js+builder;Prisma+ORM+data+modeler" />
+</p>
 
  <h1>ABOUT ME:</h1> 
  <p>💡 I am a passionate Full‑Stack Web Developer focused on building production‑grade, high‑performance optimized web applications. My expertise lies in clean architecture, scalable solutions, and user‑friendly interfaces.</p>
