@@ -6,7 +6,10 @@
  <p>💡 Alongside web development, I am actively learning Data Structures & Algorithms (DSA) with C++, strengthening my critical and logical thinking, analytical problem‑solving skills.</p>
  <p>📞 +8801786112996</p>
  <hr style="border: 1px solid #e5e7eb; width: 100%;" />
+
+ 
  <h1>CURRENT ACTIVITIES: </h1>
+  <hr style="border: 1px solid #e5e7eb; width: 100%;" />
  <ul>
   <li>Enhancing Next.js</li>
   <li>Working on a School Management System website.</li>
@@ -15,13 +18,20 @@
   <li>Expanding knowledge of MongoDB aggregation pipelines to handle complex analytics and data processing</li>
   <li>Strengthening proficiency in TypeScript’s advanced type system for building maintainable, type‑safe applications</li>
   <li>Practicing Data Structures & Algorithms (DSA) with C++ to sharpen critical and logical thinking, and improve analytical   problem‑solving skills</li>
+ </ul>
+  <hr style="border: 1px solid #e5e7eb; width: 100%;" />
 
+  
 <h1>FOLLOW ME ON SOCIAL MEDIA: </h1>
+ <hr style="border: 1px solid #e5e7eb; width: 100%;" />
  <a href="https://www.linkedin.com/in/helal-sarker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
  <a href="https://x.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height=25>
  <a href="https://discordapp.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" height=25>
+  <hr style="border: 1px solid #e5e7eb; width: 100%;" />
+  
 
  <h1>SKILLS & TECHNOLOGIES: </h1>
+  <hr style="border: 1px solid #e5e7eb; width: 100%;" />
  <h3 >FRONTEND</h3>
  <div >
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,ts,redis&perline=10" />
@@ -39,12 +49,14 @@
  <p >
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,docker,aws&perline=9" />
 </p>
+ <hr style="border: 1px solid #e5e7eb; width: 100%;" />
 
 
  
  
 
  <h1>GITHUB STATS</h1>
+  <hr style="border: 1px solid #e5e7eb; width: 100%;" />
 <p><img src="https://github-readme-stats.vercel.app/api?username=helal366&amp;show_icons=true" alt="GitHub Stats"></p>
 <!--
 **helal366/helal366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,3 +72,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+   <hr style="border: 1px solid #e5e7eb; width: 100%;" />
