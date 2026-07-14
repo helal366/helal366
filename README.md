@@ -63,7 +63,7 @@
  </p>
 
  <h3>📊 STATISTICS</h3>
-<p><img src="https://streak-stats.demolab.com?user=helal366&theme=high-contrast" /></p>
+<p><img src="https://streak-stats.demolab.com?user=helal366&theme=github-dark" /></p>
 
 
 
