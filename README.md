@@ -1,16 +1,13 @@
 <img src="https://i.postimg.cc/Z5t2Kjns/Md-Al-Helal-Sarker.png" alt="Helal banner image">
 
-<!-- <h3 align="center">Hi 👋, I'm Md Al Helal Sarker</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=JavaScript+enthusiast;PostgreSQL+data+architect;Next.js+builder;Prisma+ORM+data+modeler) -->
-
-<h3 align="center">Hi 👋, I'm Md Al Helal Sarker</h3>
-
+<h2 align="center">Hi 👋, I'm Md Al Helal Sarker</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=JavaScript+enthusiast;PostgreSQL+data+architect;Next.js+builder;Prisma+ORM+data+modeler" />
 </p>
+ <hr style="border: 1px solid #e5e7eb; width: 100%;" />
 
- <h1>ABOUT ME:</h1> 
+ <h1>ABOUT ME: </h1> 
  <p>💡 I am a passionate Full‑Stack Web Developer focused on building production‑grade, high‑performance optimized web applications. My expertise lies in clean architecture, scalable solutions, and user‑friendly interfaces.</p>
 <p>💡 My core stack includes React, TypeScript, Next.js, Node.js, modular Express backends, MongoDB and PostgreSQL, Redux, Prisma, Docker, AWS enabling me to deliver enterprise‑level full‑stack solutions with efficiency and reliability  .</p>
  <p>💡 Alongside web development, I am actively learning Data Structures & Algorithms (DSA) with C++, strengthening my critical and logical thinking, analytical problem‑solving skills.</p>
