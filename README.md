@@ -22,22 +22,22 @@
  <a href="https://discordapp.com/in/helal-sarker/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" height=25>
 
  <h1>SKILLS & TECHNOLOGIES: </h1>
- <h3 align="center">FRONTEND</h3>
- <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,ts,redis&perline=8" />
+ <h3 >FRONTEND</h3>
+ <div >
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,ts,redis&perline=10" />
  </div>
  
- <h3 align="center">BACKEND</h3>
- <p align="center">
+ <h3 >BACKEND</h3>
+ <p >
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=3" />
 </p>
- <h3 align="center">DATABASE AND AUTHENTICATION</h3>
- <p align="center">
+ <h3 >DATABASE AND AUTHENTICATION</h3>
+ <p >
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=3" />
 </p>
- <h3 align="center">TOOLS & DEVOPS</h3>
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,docker,aws&perline=5" />
+ <h3 >TOOLS & DEVOPS</h3>
+ <p >
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,docker,aws&perline=9" />
 </p>
 
 
