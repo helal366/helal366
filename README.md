@@ -18,11 +18,11 @@
  
  <h1>CURRENT ACTIVITIES: </h1>
  <ul>
-  <li>Enhancing Next.js</li>
+  <li>Enhancing Next.js and Priema Schema for PostgreSQL</li>
   <li>Working on a School Management System website.</li>
   <li>Enhancing backend architecture with PostgreSQL (Neon Cloud) for scalable and efficient data management.</li>
   <li>Deepening expertise in Redux Toolkit for advanced state management patterns</li>
-  <li>Expanding knowledge of MongoDB aggregation pipelines to handle complex analytics and data processing</li>
+  <li>Expanding knowledge of MongoDB aggregation pipelines and Prisma Schema to handle complex analytics and data processing</li>
   <li>Strengthening proficiency in TypeScript’s advanced type system for building maintainable, type‑safe applications</li>
   <li>Practicing Data Structures & Algorithms (DSA) with C++ to sharpen critical and logical thinking, and improve analytical   problem‑solving skills</li>
  </ul>
